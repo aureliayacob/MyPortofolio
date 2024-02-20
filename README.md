@@ -6,7 +6,7 @@ The Dessert Club is a desert recipes application that I developed as a final pro
 
 Repository Link: https://github.com/aureliayacob/TheDessertClub <br>
 Publication: Not available for now
-
+ <br>
 # GAMESTOP
 GAMESTOP is an application that I developed as a final project for my Dicoding class of "Belajar Fundamental Aplikasi iOS".
 <p align="center">
@@ -14,7 +14,7 @@ GAMESTOP is an application that I developed as a final project for my Dicoding c
 </p>
 Repository Link: https://github.com/aureliayacob/GameStop <br>
 Publication: Not available for now
-
+ <br>
 # Bulbapédia
 Bulbapédia is an application that I developed as a final project for my Dicoding expert class of "Menjadi iOS Developer Expert".
 <p align="center">
