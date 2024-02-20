@@ -1,4 +1,3 @@
-<img width="906" alt="image" src="https://github.com/aureliayacob/MyPortofolio/assets/73729167/3a962dd4-c4a4-41d1-a952-39b6e58b7cb4"># The Dessert Club
 The Dessert Club is a desert recipes application that I developed as a final project for my Dicoding class of "Belajar Membuat Aplikasi iOS untuk Pemula".
 The Dessert Club is natively developed using Swift and SwiftUI. This application will display a list and detail of various dessert recipes using the TheMealDB open-source API (https://www.themealdb.com/api.php).
 <p align="center">
