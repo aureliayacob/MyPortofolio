@@ -17,6 +17,7 @@ Gamestop is natively developed using Swift and SwiftUI. This application will di
 Repository Link: https://github.com/aureliayacob/GameStop <br>
 Publication: Not available for now
  <br>
+ 
 # Bulbapédia
 Bulbapédia is an application that I developed as a final project for my Dicoding expert class of "Menjadi iOS Developer Expert".
 <p align="center">
