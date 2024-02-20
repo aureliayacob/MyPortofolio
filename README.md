@@ -4,7 +4,7 @@ The Dessert Club is a desert recipes application that I developed as a final pro
 <img src="images/thedessertclub_0.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/thedessertclub_1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/thedessertclub_2.png" width="230" title="">
 </p>
 
-Repository Link: https://github.com/aureliayacob/TheDessertClub
+Repository Link: https://github.com/aureliayacob/TheDessertClub <br>
 Publication: Not available for now
 
 # GAMESTOP
@@ -12,7 +12,7 @@ GAMESTOP is an application that I developed as a final project for my Dicoding c
 <p align="center">
 <img src="images/gamestop1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/gamestop2.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/gamestop3.png" width="230" title="">
 </p>
-Repository Link: https://github.com/aureliayacob/GameStop
+Repository Link: https://github.com/aureliayacob/GameStop <br>
 Publication: Not available for now
 
 # Bulbapédia
@@ -20,5 +20,5 @@ Bulbapédia is an application that I developed as a final project for my Dicodin
 <p align="center">
 <img src="images/bulbapedia1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bulbapedia2.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bulbapedia3.png" width="230" title="">
 </p>
-Repository Link: https://github.com/aureliayacob/Bulbapedia
+Repository Link: https://github.com/aureliayacob/Bulbapedia <br>
 Publication: Not available for now
