@@ -14,3 +14,11 @@ GAMESTOP is an application that I developed as a final project for my Dicoding c
 </p>
 Repository Link: https://github.com/aureliayacob/GameStop
 Publication: Not available for now
+
+# Bulbapédia
+Bulbapédia is an application that I developed as a final project for my Dicoding expert class of "Menjadi iOS Developer Expert".
+<p align="center">
+<img src="images/bulbapedia1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bulbapedia2.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bulbapedia3.png" width="230" title="">
+</p>
+Repository Link: https://github.com/aureliayacob/Bulbapedia
+Publication: Not available for now
