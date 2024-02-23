@@ -25,3 +25,17 @@ Bulbapédia is an application that I developed as a final project for my Dicodin
 </p>
 Repository Link: https://github.com/aureliayacob/Bulbapedia <br>
 Publication: Not available for now
+
+# NexComponent
+NexComponent is a collection of company's standard components that is reusable and can be used by other iOS Developer to simplify and accelerate the application development process in alignment with company standards and maximizing productivity and ensuring consistent quality across projects.
+
+Repository Link: Not available <br>
+Publication: Not available
+
+
+# GroUp
+Super Apps application for social media, market place, logistics, etc. With a B2B business for business purposes with vendor companies and other business organizations such as manufacturers and wholesalers or wholesalers and retailers.
+Repository Link: Not available <br>
+Publication: Not available for now
+
+
