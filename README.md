@@ -8,8 +8,6 @@ Publication: Not available for now
 <img src="images/thedessertclub_0.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/thedessertclub_1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/thedessertclub_2.png" width="230" title="">
 </p>
 
-
- <br>
 # Gamestop
 Gamestop is an application that I developed as a final project for my Dicoding class of "Belajar Fundamental Aplikasi iOS".
 Gamestop is natively developed using Swift and SwiftUI. This application will display a list of popular releases games. Here i'm using the RAWG open-source API (https://rawg.io/apidocs).
