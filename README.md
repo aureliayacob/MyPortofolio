@@ -1,6 +1,6 @@
 
 # GroUp
-Super Apps application for social media, market place, logistics, etc. With a B2B business for business purposes with vendor companies and other business organizations such as manufacturers and wholesalers or wholesalers and retailers. <br>
+GroUp is a native iOS Super Apps application for social media, market place, logistics, etc. With a B2B business for business purposes with vendor companies and other business organizations such as manufacturers and wholesalers or wholesalers and retailers. <br>
 Repository Link: Not available <br>
 Publication: Not available for now
 
