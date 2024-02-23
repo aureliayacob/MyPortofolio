@@ -31,7 +31,7 @@ Publication: Not available for now
 
 
 # NexComponent
-NexComponent is a collection of company's standard components that is reusable and can be used by other iOS Developer to simplify and accelerate the application development process in alignment with company standards and maximizing productivity and ensuring consistent quality across projects.
+NexComponent is a library that contains a collection of company's standard components that is reusable and can be used by other iOS Developer to simplify and accelerate the application development process in alignment with company standards and maximizing productivity and ensuring consistent quality across projects.
 
 Repository Link: Not available <br>
 Publication: Not available
