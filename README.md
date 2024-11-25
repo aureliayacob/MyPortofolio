@@ -3,7 +3,7 @@
 GroUp is a native iOS Super Apps application for social media, market place, logistics, etc. With a B2B business for business purposes with vendor companies and other business organizations such as manufacturers and wholesalers or wholesalers and retailers. <br>
 Repository Link: Not available <br>
 <p align="center">
-<img src="images/IMG_5613.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/nexcomponent2.png" width="230" title="">
+<img src="images/IMG_5613.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IMG_5608.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IMG_5610.png" width="230" title="">
 </p>
 Publication: https://apps.apple.com/id/app/group/id6453885053
 
