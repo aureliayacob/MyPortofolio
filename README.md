@@ -1,10 +1,13 @@
 
 # GroUp
-GroUp is a native iOS Super Apps application for social media, market place, logistics, etc. With a B2B business for business purposes with vendor companies and other business organizations such as manufacturers and wholesalers or wholesalers and retailers. <br>
-Repository Link: Not available <br>
+GroUp - Seamless Consumer Product Ordering for Store Managers and Salespeople
+
+GroUp is an innovative mobile app designed to simplify the process of ordering consumer products for store managers and salespeople. For store managers, it offers the convenience of ordering everyday products directly, without the need to wait for distributor salespeople. GroUp ensures access to all the promotions typically offered by distributors, bringing more flexibility and efficiency to your inventory management.
+<br>
 <p align="center">
 <img src="images/IMG_5613.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IMG_5608.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IMG_5610.png" width="230" title="">
 </p>
+Repository Link: Not available <br>
 Publication: https://apps.apple.com/id/app/group/id6453885053
 
 # NexComponent
