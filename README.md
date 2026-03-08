@@ -1,3 +1,14 @@
+# MyPertamina
+MyPertamina is a large-scale mobile application used by thousands of users in Indonesia. The app allows users to access services related to fuel payments, loyalty programs, and other digital services provided by Pertamina. It combines multiple features in a single platform and uses both native mobile interfaces and webview-based modules to deliver different services.
+
+My responsibilities included implementing several features using Swift and native iOS UI components, as well as integrating webview-based modules within the native app. I collaborated with other teams working on different parts of the application to ensure that new features integrated smoothly into the existing architecture.
+<br>
+<p align="center">
+<img src="images/IMG_5613.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IMG_5608.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IMG_5610.png" width="230" title="">
+</p>
+Repository Link: Not available <br>
+Publication: https://apps.apple.com/id/app/mypertamina/id1295039064
+
 
 # GroUp
 GroUp - Seamless Consumer Product Ordering for Store Managers and Salespeople
